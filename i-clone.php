@@ -4,8 +4,8 @@
  Plugin URI: https://www.binarypoets.net/iClone/
  Description: Clone posts and pages. 
  Version: 1.0.0
- Author: BinaryPOets
- Author URI: https://www.binarypoets.net/iClone/
+ Author: BinaryPoets
+ Author URI: https://www.binarypoets.net/
  Text Domain: i-clone
  */
 
